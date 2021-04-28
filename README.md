@@ -4,8 +4,12 @@
 <p align="center"> 
          <B>Database _ Oracle DB & SQL Developer</B><br><br>
          Sungkonghoe University Database in 2019 <br> 
+</p>
+
+<p align="center"> 
          <B>Database _ MySQL</B><br><br>
          KNUT University Database in 2021
 </p>
+
 
 
